@@ -20,4 +20,4 @@ document.write('Divition: ' + num1 + " / " + num2 + ' = ' + result4 + '<br><br>'
 
 let point = Math.random()*5;
 point = Math.round(point);
-document.write('You have got ' + point + 'point for using our calculator.');
+document.write('You have got ' + point + ' point for using our calculator.');
